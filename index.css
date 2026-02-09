@@ -64,3 +64,13 @@ overflow: hidden;
   align-items: center;
   padding: 40px;
 }
+
+
+
+
+footer {
+    background-color: #1e40af;
+    color: #ffffff;
+    padding: 60px 0;
+    text-align: center;
+}
